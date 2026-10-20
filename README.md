@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/azavalny/competitive-programming/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/azavalny/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/azavalny/competitive-programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/azavalny/competitive-programming/tree/master/0200-number-of-islands) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/azavalny/competitive-programming/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/azavalny/competitive-programming/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/azavalny/competitive-programming/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/azavalny/competitive-programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
