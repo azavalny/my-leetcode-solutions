@@ -5,7 +5,7 @@ class Solution:
             you cannot merge two piles together == cannot transfer candies from one pile to another
             so smallest pile of candies at the start bottlenecks entire giving process
 
-        binary search from 1 to max(candies) to find max candies:
+        binary search from 1 to sum(candies)//k to find max candies:
             middle valid if mid*k < sum(candies)
                 check right half to find new max
             else check left half
