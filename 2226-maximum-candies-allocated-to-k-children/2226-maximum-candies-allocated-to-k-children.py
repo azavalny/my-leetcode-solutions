@@ -34,7 +34,7 @@ max: 5
         if sum(candies)//k == 0:
             return 0
         l = 1
-        r = max(candies)
+        r = sum(candies)//k
         sol = 0
         while l <= r:
             mid = (l + r)//2
