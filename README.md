@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2560-house-robber-iv](https://github.com/azavalny/competitive-programming/tree/master/2560-house-robber-iv) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/azavalny/competitive-programming/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/azavalny/competitive-programming/tree/master/1975-maximum-matrix-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
+| [2560-house-robber-iv](https://github.com/azavalny/competitive-programming/tree/master/2560-house-robber-iv) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2938-separate-black-and-white-balls](https://github.com/azavalny/competitive-programming/tree/master/2938-separate-black-and-white-balls) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/azavalny/competitive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/azavalny/competitive-programming/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
+| [2560-house-robber-iv](https://github.com/azavalny/competitive-programming/tree/master/2560-house-robber-iv) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Math
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/azavalny/competitive-programming/tree/master/1014-best-sightseeing-pair) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
+| [2560-house-robber-iv](https://github.com/azavalny/competitive-programming/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Stack
 |  |
