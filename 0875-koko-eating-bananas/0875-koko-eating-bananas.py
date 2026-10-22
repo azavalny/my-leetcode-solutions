@@ -13,16 +13,18 @@ class Solution:
             k = middle
             if hours <= h try smaller k otherwise do bigger k
         """
-        l, r = 1, max(piles)
-        k = 1
-
-        while l <= r:
-            k = l + (r-l)//2
+        def is_valid(mid):
             hours = 0
             for p in piles:
-                hours += math.ceil(p/k)
-            if hours <= h:
-                r = k -1
+                hours += math.ceil(p/mid)
+            return hours <= h
+        l, r = 1, max(piles)
+        mid = 1
+
+        while l <= r:
+            mid = l + (r-l)//2
+            if is_valid(mid):
+                r = mid -1
             else:
-                l = k + 1
+                l = mid + 1
         return l
