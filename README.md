@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2560-house-robber-iv](https://github.com/azavalny/competitive-programming/tree/master/2560-house-robber-iv) |
+| [2594-minimum-time-to-repair-cars](https://github.com/azavalny/competitive-programming/tree/master/2594-minimum-time-to-repair-cars) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/azavalny/competitive-programming/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/azavalny/competitive-programming/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2560-house-robber-iv](https://github.com/azavalny/competitive-programming/tree/master/2560-house-robber-iv) |
+| [2594-minimum-time-to-repair-cars](https://github.com/azavalny/competitive-programming/tree/master/2594-minimum-time-to-repair-cars) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Math
