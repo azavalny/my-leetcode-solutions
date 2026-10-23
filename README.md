@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/azavalny/competitive-programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/azavalny/competitive-programming/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2187-minimum-time-to-complete-trips](https://github.com/azavalny/competitive-programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/azavalny/competitive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/azavalny/competitive-programming/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2270-number-of-ways-to-split-array](https://github.com/azavalny/competitive-programming/tree/master/2270-number-of-ways-to-split-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/azavalny/competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/azavalny/competitive-programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2187-minimum-time-to-complete-trips](https://github.com/azavalny/competitive-programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/azavalny/competitive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/azavalny/competitive-programming/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
