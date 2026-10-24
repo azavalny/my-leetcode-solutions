@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/azavalny/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/azavalny/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/azavalny/competitive-programming/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/azavalny/competitive-programming/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/azavalny/competitive-programming/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/azavalny/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/azavalny/competitive-programming/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
