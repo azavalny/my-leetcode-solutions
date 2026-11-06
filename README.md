@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/azavalny/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/azavalny/competitive-programming/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/azavalny/competitive-programming/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/azavalny/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/azavalny/competitive-programming/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/azavalny/competitive-programming/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/azavalny/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/azavalny/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/azavalny/competitive-programming/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/azavalny/competitive-programming/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/azavalny/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/azavalny/competitive-programming/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/azavalny/competitive-programming/tree/master/0528-random-pick-with-weight) |
 | [0593-valid-square](https://github.com/azavalny/competitive-programming/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/azavalny/competitive-programming/tree/master/0670-maximum-swap) |
@@ -608,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/azavalny/competitive-programming/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
