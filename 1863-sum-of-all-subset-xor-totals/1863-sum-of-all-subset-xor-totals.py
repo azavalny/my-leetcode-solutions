@@ -23,13 +23,16 @@ class Solution:
             backtrack(i+1, new_sum)
             backtrack(i+1, cur_sum)
         """
-        total_sum = 0
+        sol = 0
+
         def backtrack(i, cur_sum):
-            nonlocal total_sum
+            nonlocal sol
             if i == len(nums):
-                total_sum += cur_sum
+                sol += cur_sum
                 return
-            backtrack(i + 1, cur_sum ^ nums[i])
-            backtrack(i + 1, cur_sum)
+            for i in range(i, len(nums)):
+                backtrack(i + 1, cur_sum ^ nums[i])
+
+            sol += cur_sum
         backtrack(0, 0)
-        return total_sum
+        return sol
